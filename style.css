@@ -1,0 +1,33 @@
+.heroPage{
+    position: absolute; 
+    top: 500px;
+}
+
+.heroPageTab{
+    position: absolute; 
+    top: 450px;
+}
+@media screen and (min-width: 770px) {
+    .heroPage {
+        position: absolute; 
+        top: 510px;
+    }
+  }
+
+/* Responsividade */
+@media screen and (min-width: 1000px) {
+    .heroPage {
+        position: absolute; 
+        top: 530px;
+    }
+  }
+  
+  @media screen and (min-width: 770px) {
+    .heroPage {
+        position: absolute; 
+        top: 510px;
+    }
+  }
+
+
+ 
